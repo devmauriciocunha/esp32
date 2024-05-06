@@ -17,8 +17,8 @@ const char* mqtt_topic = "mauricio/ble_data";
 
 // Dados de BLE
 const float max_distance = 10.0;
-const float RSSI_0 = -59;
-const float ENVIRONMENTAL_FACTOR_N = 2;
+const float RSSI_0 = -69;
+const float ENVIRONMENTAL_FACTOR_N = 3.5;
 
 WiFiClient espClient;
 PubSubClient mqttClient(espClient);
