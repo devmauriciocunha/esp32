@@ -1,4 +1,4 @@
-# Projeto ESP32 com BLE e MQTT 🌐💬
+# Localizador de Objetos com BLE e MQTT 🌐💬
 
 ## Sobre 📘
 Esse projeto transforma o ESP32 visa ser capaz de identificar dispositivos BLE (Bluetooth Low Energy) nas proximidades e calcular a distância até eles com o calculo RSSI. As informações são enviadas via MQTT, mantendo você sempre informado.
