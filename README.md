@@ -1,7 +1,7 @@
 # Projeto ESP32 com BLE e MQTT 🌐💬
 
 ## Sobre 📘
-Esse projeto transforma o ESP32 em um detetive de tecnologia, capaz de identificar dispositivos BLE (Bluetooth Low Energy) nas proximidades e calcular a distância até eles com precisão matemática. As informações são enviadas via MQTT, mantendo você sempre informado.
+Esse projeto transforma o ESP32 visa ser capaz de identificar dispositivos BLE (Bluetooth Low Energy) nas proximidades e calcular a distância até eles com o calculo RSSI. As informações são enviadas via MQTT, mantendo você sempre informado.
 
 ## Materiais Necessários 🛠️
 - ESP32
